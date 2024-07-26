@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krrishshrestha
 - 👀 I’m interested in cyersecurity 
 - 🌱 I’m currently learning Computer Networking and IT security 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects related to Networking or CTF
 - 📫 Email: krrishshrestha0708@gmail.com
 
 
